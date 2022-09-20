@@ -1,6 +1,4 @@
-# votty
-
-![app-logo](/1.png)
+![app-logo](/3.png)
 
 ---
 
