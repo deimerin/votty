@@ -1,8 +1,14 @@
 # votty
 
-// Repositorio central con links a los modulos de la aplicacion
-// Hacer un banner y una mejor descripcion
+![app-logo](/1.png)
 
-- https://github.com/deimerin/votty-votter
-- https://github.com/deimerin/votty-admin
-- https://github.com/deimerin/votty-check
+---
+
+Links a los diferentes módulos de la aplicación:
+- Votante: [votty-voter](https://github.com/deimerin/votty-votter)
+- Administrador: [votty-admin](https://github.com/deimerin/votty-admin)
+- Verificación: [votty-check](https://github.com/deimerin/votty-check) 
+---
+Desarrollado por:
+- Deimer Ivan Castillo Caceres
+- Lewing Andres Mendez Ortiz
